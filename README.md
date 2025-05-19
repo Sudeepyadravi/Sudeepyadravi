@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudeepyadravi
 - 👀 I’m interested Web development
-- 🌱 I’m currently learning Bca in kle jt College Gadag 
+- 🌱 I Completed my  Bca in kle jt College Gadag 
 - 💞️ I’m looking to collaborate on ... Front End Development and Backend Development
 - 📫 How to reach me ... sudeepyadravi@gmail.com
 
